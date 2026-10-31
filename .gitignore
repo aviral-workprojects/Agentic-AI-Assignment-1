@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/students.db
+*.db
+*.sqlite*
+traces/
+eval/.eval_data/
+.pytest_cache/
